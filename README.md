@@ -1,4 +1,4 @@
-# SaveTheBay
+# Save The Bay
 
 A Summary of findings and recommendations - Site Map - User Flow Diagram - Registration form for Save the bay website
 
